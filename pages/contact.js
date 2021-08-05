@@ -31,7 +31,7 @@ export default function contact() {
                 Subtract
               </button>
             </p>
-            <form name="contact" netlify>
+            <form name="contact" action="/success" netlify>
               <p>
                 <label>
                   Name <input type="text" name="name" />
