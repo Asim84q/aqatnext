@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my next world!" />
+        <Header title="Welcome to my next world2!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
