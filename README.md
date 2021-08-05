@@ -1,6 +1,6 @@
-# Aqatnext
+# Next + Netlify Starter
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9d87c376-857b-40e2-a256-95d3983b69f1/deploy-status)](https://app.netlify.com/sites/naughty-ramanujan-19d899/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ed50f56e-4fc2-4c98-8b66-1e5074c6f3d3/deploy-status)](https://app.netlify.com/sites/next-starter/deploys)
 
 This is a [Next.js](https://nextjs.org/) v11 project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and set up to be instantly deployed to [Netlify](https://url.netlify.com/SyTBPVamO)!
 
