@@ -31,7 +31,7 @@ export default function contact() {
                 Subtract
               </button>
             </p>
-            <form name="contact" action="/success" method="POST" data-netlify="true">
+            <form>
               <label htmlFor="name">Name</label>
               <input id="name" type="text" autoComplete="name" required />
               <button type="submit">Register</button>
